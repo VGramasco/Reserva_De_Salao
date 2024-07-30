@@ -1,0 +1,28 @@
+C:\Users\8131395\source\repos\Reserva_Salao\Reserva_Salao\bin\Debug\Reserva_Salao.exe.config
+C:\Users\8131395\source\repos\Reserva_Salao\Reserva_Salao\bin\Debug\Reserva_Salao.exe
+C:\Users\8131395\source\repos\Reserva_Salao\Reserva_Salao\bin\Debug\Reserva_Salao.pdb
+C:\Users\8131395\source\repos\Reserva_Salao\Reserva_Salao\bin\Debug\MySql.Data.dll
+C:\Users\8131395\source\repos\Reserva_Salao\Reserva_Salao\bin\Debug\Google.Protobuf.dll
+C:\Users\8131395\source\repos\Reserva_Salao\Reserva_Salao\bin\Debug\MySql.Data.xml
+C:\Users\8131395\source\repos\Reserva_Salao\Reserva_Salao\obj\Debug\Reserva_Salao.csproj.AssemblyReference.cache
+C:\Users\8131395\source\repos\Reserva_Salao\Reserva_Salao\obj\Debug\Reserva_Salao.csproj.SuggestedBindingRedirects.cache
+C:\Users\8131395\source\repos\Reserva_Salao\Reserva_Salao\obj\Debug\Reserva_Salao.Form1.resources
+C:\Users\8131395\source\repos\Reserva_Salao\Reserva_Salao\obj\Debug\Reserva_Salao.Properties.Resources.resources
+C:\Users\8131395\source\repos\Reserva_Salao\Reserva_Salao\obj\Debug\Reserva_Salao.csproj.GenerateResource.cache
+C:\Users\8131395\source\repos\Reserva_Salao\Reserva_Salao\obj\Debug\Reserva_Salao.csproj.CoreCompileInputs.cache
+C:\Users\8131395\source\repos\Reserva_Salao\Reserva_Salao\obj\Debug\Reserva_Salao.csproj.CopyComplete
+C:\Users\8131395\source\repos\Reserva_Salao\Reserva_Salao\obj\Debug\Reserva_Salao.exe
+C:\Users\8131395\source\repos\Reserva_Salao\Reserva_Salao\obj\Debug\Reserva_Salao.pdb
+C:\Users\saraf\Downloads\272fc2d521d817fad71f116c33f3d0be (1)\Reserva_Salao\Reserva_Salao\bin\Debug\Reserva_Salao.exe.config
+C:\Users\saraf\Downloads\272fc2d521d817fad71f116c33f3d0be (1)\Reserva_Salao\Reserva_Salao\bin\Debug\Reserva_Salao.exe
+C:\Users\saraf\Downloads\272fc2d521d817fad71f116c33f3d0be (1)\Reserva_Salao\Reserva_Salao\bin\Debug\Reserva_Salao.pdb
+C:\Users\saraf\Downloads\272fc2d521d817fad71f116c33f3d0be (1)\Reserva_Salao\Reserva_Salao\bin\Debug\Google.Protobuf.dll
+C:\Users\saraf\Downloads\272fc2d521d817fad71f116c33f3d0be (1)\Reserva_Salao\Reserva_Salao\bin\Debug\MySql.Data.xml
+C:\Users\saraf\Downloads\272fc2d521d817fad71f116c33f3d0be (1)\Reserva_Salao\Reserva_Salao\obj\Debug\Reserva_Salao.csproj.AssemblyReference.cache
+C:\Users\saraf\Downloads\272fc2d521d817fad71f116c33f3d0be (1)\Reserva_Salao\Reserva_Salao\obj\Debug\Reserva_Salao.Form1.resources
+C:\Users\saraf\Downloads\272fc2d521d817fad71f116c33f3d0be (1)\Reserva_Salao\Reserva_Salao\obj\Debug\Reserva_Salao.Properties.Resources.resources
+C:\Users\saraf\Downloads\272fc2d521d817fad71f116c33f3d0be (1)\Reserva_Salao\Reserva_Salao\obj\Debug\Reserva_Salao.csproj.GenerateResource.cache
+C:\Users\saraf\Downloads\272fc2d521d817fad71f116c33f3d0be (1)\Reserva_Salao\Reserva_Salao\obj\Debug\Reserva_Salao.csproj.CoreCompileInputs.cache
+C:\Users\saraf\Downloads\272fc2d521d817fad71f116c33f3d0be (1)\Reserva_Salao\Reserva_Salao\obj\Debug\Reserva_.ECCAEB15.Up2Date
+C:\Users\saraf\Downloads\272fc2d521d817fad71f116c33f3d0be (1)\Reserva_Salao\Reserva_Salao\obj\Debug\Reserva_Salao.exe
+C:\Users\saraf\Downloads\272fc2d521d817fad71f116c33f3d0be (1)\Reserva_Salao\Reserva_Salao\obj\Debug\Reserva_Salao.pdb
